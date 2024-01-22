@@ -6,6 +6,14 @@
 - Equipped with a strong and deep understanding of Elasticsearch, Kibana, Logstash and Opensearch.
 - Eager to embark on a career in the Elasticsearch.
 - Known for strong interpersonal skills, technical abilities, and a positive attitude towards learning new concepts and technologies. Drawn to innovative and forward-thinking IT companies to apply my technical expertise and thrive in a culture of continuous learning and growth.<br/>
+## Skills 
+- Elasticsearch
+- Kibana
+- ELK Stack
+- Data Analysis
+- Data Visualization
+- Machine Learning
+- Logstash<br/> 
 ## Contact Information
 - 📧 Email: aamir@zd-inc.net
 - 🌐 LinkedIn: [Aamir M.](https://www.linkedin.com/in/aamirzd/)<br/>
