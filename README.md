@@ -24,6 +24,10 @@
 ### Elasticsearch Specialist 
 - Jan 2020 - Present · 4 yrs 1 mo
 - Toronto, Ontario, Canada<br/>
+## Opensource Consulting
+### Elasticsearch Consultant 
+- Feb 2024 - Present · 1 month
+- Toronto, Ontario, Canada<br/>
 ## Education 
 - **Master of Science (MSc), Information Technology**
   - Bahauddin Zakariya University, Multan
